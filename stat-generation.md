@@ -2,6 +2,7 @@
 ## Rules as Written
 In 5e, generating stats is plain and simple, as explained from the rules below.
 
+> Old Rules (removed):
 > [vanilla]
 
 ## Mythril Forge Ruleset
@@ -13,6 +14,7 @@ Rolling this set of dice will allow you to get a higher maximum (20 vs 18) while
 At the same time, it does consciously lower the average of your rolls by one point.
 This change is made to compensate for improvements made elsewhere in the ruleset.
 
+> New Rules:
 > [homebrew]
 
 Note that the point-buy variant rule is not permitted.
